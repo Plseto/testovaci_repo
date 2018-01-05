@@ -25,3 +25,5 @@ prohlizec
 nahore ctrl c
 saves
 gitclone
+
+you win
